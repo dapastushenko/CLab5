@@ -10,6 +10,7 @@ namespace CLab5
     {
         static void Main(string[] args)
         {
+            ;
         }
     }
 }
